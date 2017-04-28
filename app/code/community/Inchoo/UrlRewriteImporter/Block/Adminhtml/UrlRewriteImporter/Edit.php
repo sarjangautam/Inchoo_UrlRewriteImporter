@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @category    Inchoo
+ * @category    Inchoo Test test
  * @package     Inchoo_UrlRewriteImporter
  * @author      Branko Ajzele <ajzele@gmail.com>
  * @copyright   Copyright (c) Inchoo
